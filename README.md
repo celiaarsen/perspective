@@ -2,7 +2,7 @@
 
 This project compares machine learning models that detect hate speech and other types of abusive and/or problematic behavior in social media.
 
-This repo contains code for scoring the toxicity of Reddit comments using the Perspective API by Google.
+This repo specifically contains code for scoring the toxicity of Reddit comments using the Perspective API by Google.
 
 Data are from pushshift.io and more information on the Perspective model can be found at https://github.com/conversationai/perspectiveapi
 
